@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1717748307 source:c:\users\ty\desktop\ict\214\2rsa\main.c
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+
